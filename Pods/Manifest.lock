@@ -1,0 +1,16 @@
+PODS:
+  - TestPodFramework (1.0.1)
+
+DEPENDENCIES:
+  - TestPodFramework
+
+SPEC REPOS:
+  https://github.com/iBolom/cocoapods-spec.git:
+    - TestPodFramework
+
+SPEC CHECKSUMS:
+  TestPodFramework: c477bdc9fd717f34c5424afadc8c4b99809e364d
+
+PODFILE CHECKSUM: 5fa4c22b852a6edef3b2b1bcdc8b50060c3fa576
+
+COCOAPODS: 1.7.3
